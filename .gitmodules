@@ -1,3 +1,6 @@
 [submodule "submodules/yowsup"]
 	path = submodules/yowsup
 	url = https://github.com/tgalal/yowsup.git
+[submodule "submodules/tweepy"]
+	path = submodules/tweepy
+	url = https://github.com/tweepy/tweepy.git
